@@ -7,8 +7,8 @@
   "private": true,
   "scripts": {
     "dev": "marp --html --server .",
-    "build": "marp --html --pdf --allow-local-files --title 'Dash Hands-on' slide.md -o ./slide.pdf",
-    "export": "marp pichme.md pichme.html"
+    "build": "marp --html --pdf --allow-local-files --title 'Gitlab Hands-on' PITCHME.md -o ./slide.pdf",
+    "export": "marp PITCHME.md PITCHME.html"
   },
   "dependencies": {
     "@marp-team/marp-cli": "^0.15.0"
