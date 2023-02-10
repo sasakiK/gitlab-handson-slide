@@ -11,6 +11,6 @@
     "export": "marp PITCHME.md PITCHME.html"
   },
   "dependencies": {
-    "@marp-team/marp-cli": "^0.15.0"
+    "@marp-team/marp-cli": "^2.3.0"
   }
 }
